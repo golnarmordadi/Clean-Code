@@ -1,10 +1,10 @@
 
 #!/bin/bash
 ##############################################################################
-# SHORTCUTS and HISTORY
+Clean Code
 ##############################################################################
 
-#Clean Code
+
 
 ###We need to make sure thet we're creating code that can be easily understood by humans.
 
