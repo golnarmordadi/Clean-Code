@@ -1,4 +1,4 @@
-## CleanCocde❤️
+## Clean Cocde❤️
 
 ```
 Humans are the first people you writing code for them. We need to make sure that we're creating code that can be easily understand 
