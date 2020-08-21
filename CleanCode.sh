@@ -115,13 +115,3 @@ Prefer singular names for primitive types and object instances
 
 
 
-
-b
-
-
-
-
-
-
-
-
