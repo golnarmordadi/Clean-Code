@@ -11,6 +11,11 @@ that can be easily understand by humans.
 * Formatted consistently                                               
 * Clearly communication
 
+```
+That's where 'Clean Code' principles come into play. By following them, you will ensure that you are 
+creating code that will be understood.
+```
+
 #### Definition Of Clean Code
 
 * Easy To Read
