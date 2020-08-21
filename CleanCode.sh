@@ -1,7 +1,7 @@
 #####################################################################################################
                                        Prefer Clarity Over Brevity
 #####################################################################################################                                                    
-Acronysm and Abbriviations can create confusion for the people who read our code later.
+1.Acronysm and Abbriviations can create confusion for the people who read our code later.
 
 #####################################################################################################
                                        Class and Type Names
@@ -38,6 +38,7 @@ A cleaner way to convey the passage of time in a class name is to use an adjecti
                                        Variable Names
 #####################################################################################################
 Prefer singular names for primitive types and object instances
+
 1.Follow rules for method and function names for variables that store lambda functions and closurs
 2.Avoid single letter variable name
 3.Singular noun for 1.Primitive Types   2.Object Instances
@@ -77,13 +78,12 @@ Prefer singular names for primitive types and object instances
 #####################################################################################################
                                        Comments
 #####################################################################################################
-The best comment used to answer "why" questions
+1.The best comment used to answer "why" questions
 
 #####################################################################################################
                                        Constant Formatting Roles
 #####################################################################################################
 1.All capitalized with underscore as a seprater
-
   *DIRECTORY_NAE    >. python, ruby, rust roles
   *First_Name       >. c#, go
 
