@@ -1,14 +1,22 @@
 ## CleanCocde
 
+```
+Humans are the first people you writing code for them. We need to make sure that we're creating code that can be easily 
+understand by humans. 
+```
+
 #### Clean Code should be:
+
+- [ ] Easy To Read
+- [ ] Easy to improve
+- [ ] Easy To Fix
+- [ ] Keep test code clean
+
 ###### Simple To Read
 
-```
-That's where clean code principles come into play. By following them,
-you will ensure that youre crafting code that will be understood.mm
-```
 
-- [x] cfhfgh
+
+- [ ] Simple To Read
 - [ ] ghfghf
 
 
