@@ -9,7 +9,7 @@
 A class or type is used to represent a category of things.
 A cleaner way to convey the passage of time in a class name is to use an adjective as a prefix.
 
-1.Noun(first letter capitall)                  #Performer not Performance
+1.Noun first letter capitall                   #Performer not Performance
 2.Avoid of verb forms                          #Create, created, creating
 3.Use adjective as a prefix                    #postPerformance not activePerformance
 4.Don't use adjective for class name           #no small, fast
@@ -41,7 +41,9 @@ Prefer singular names for primitive types and object instances
 
 1.Follow rules for method and function names for variables that store lambda functions and closurs
 2.Avoid single letter variable name
-3.Singular noun for 1.Primitive Types   2.Object Instances
+3.Singular noun for 
+  - Primitive Types   
+  - Object Instances
 4.Plural nouns for arrays and collections
 5.Avoid verbs for values that store primitive types insted use nouns
 6.Avoid confusing acronysm and abbreviations  #no dbsqlselallnames
