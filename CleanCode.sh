@@ -4,7 +4,7 @@
 1.Acronysm and Abbriviations can create confusion for the people who read our code later.
 
 #####################################################################################################
-                                       Class and Type Names
+                                       Class And Types Name
 #####################################################################################################
 A class or type is used to represent a category of things.
 A cleaner way to convey the passage of time in a class name is to use an adjective as a prefix.
@@ -24,7 +24,7 @@ A cleaner way to convey the passage of time in a class name is to use an adjecti
 13.Plural used for collection class            #class performers
 
 #####################################################################################################
-                                       Method and Functions
+                                       Method And Functions Name
 #####################################################################################################
 1.Prefer present tens verbs for method names  #Perform, Open, Close
 2.Avoid gerunds and past tens verb forms      #no performing, closing, performed, closed
@@ -81,6 +81,7 @@ Prefer singular names for primitive types and object instances
                                        Comments
 #####################################################################################################
 1.The best comment used to answer "why" questions
+2.Avoid obvious comments
 
 #####################################################################################################
                                        Constant Formatting Roles
@@ -90,8 +91,37 @@ Prefer singular names for primitive types and object instances
   *First_Name       >. c#, go
 
 #####################################################################################################
-                                       Indentation and Readability
+                                       Indentation And Readability
 #####################################################################################################
+1.Keep your indentation style consistent
+2.A space after comma between parameters, arguments, function names
+2.Code grouping
+3.Avoid deep nesting
+4.Avoid horizontally long lines of code
+5.IDE plugins to automatically format code
+  *VS Code        >. Prettier
+  *Atom           >. Atom Beautify
+  *Sublime Text   >.Prettify
+
+#####################################################################################################
+                                     Standardization Of Headers For Different Modules
+#####################################################################################################
+1.Module-name
+2.Module creation date
+3.Module author
+4.Audit trail capturing modification history with author-name
+5.Module summary
+6.Module Functions(input, output, params, global variables
+
+
+
+
+
+
+
+
+
+
 
 
 
