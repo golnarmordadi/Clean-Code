@@ -5,31 +5,22 @@
                                                           >. Clean Code
 
 
-`Clean Code` should be >. Simple To Read
-
-
-What Is Clean Code?                                                         Clean Code Definition?
-
-      <> Written with human in mind                                               <> Easy to read
-      <> Names are easy to understand                                             <> Easy to improve
-      <> Formatted consistently                                                   <> Easy to fix
-      <> Clearly communication                                                    <> Keep test code clean
-       
-That's where clean code principles come into play. By following them, you will ensure that youre crafting code that will be understood.
-
 ########################################################################################################################################
 
-                                                              >. Prefer Clarity Over Brevity
+###########################
+Prefer Clarity Over Brevity
+###########################                                                    
 Acronysm and Abbriviations can create confusion for the people who read our code later.
 
 ####################
 Class and Type Names
 ####################
-The basic roles is to prefer nouns with the first letter capitalized for your class names. A class or type is used to represent a category of things.
+A class or type is used to represent a category of things.
 A cleaner way to convey the passage of time in a class name is to use an adjective as a prefix.
+
 1.Noun(first letter capitall)                  #Performer not Performance
 2.Avoid of verb forms                          #Create, created, creating
-3.Use adjective prefix                         #postPerformance not activePerformance
+3.Use adjective as a prefix                    #postPerformance not activePerformance
 4.Don't use adjective for class name           #no small, fast
 5.Adjective as prefix to noun                  #smallPerformance, fastPerformance
 6.Avoid vague prefix                           #no myPerformance, thePerformance
