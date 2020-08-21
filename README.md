@@ -17,6 +17,7 @@ That's where 'Clean Code' principles come into play. By following them, you will
 #### Definition Of Clean Code
 
 * Easy To Read
+* Easy To Understand
 * Easy To Improve
 * Easy To Fix
 * Keep Test Code Clean
