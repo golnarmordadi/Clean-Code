@@ -1,7 +1,8 @@
 ## CleanCocde
 
 ```
-Humans are the first people you writing code for them. We need to make sure that we're creating code that can be easily understand by humans. 
+Humans are the first people you writing code for them. We need to make sure that we're creating code that can be easily understand 
+by everyone whether the reader is the author of the code or a new programmer by smile :)
 ```
 #### What Is Clean Code?
 
@@ -11,7 +12,8 @@ Humans are the first people you writing code for them. We need to make sure that
 * Clearly communication
 
 ```
-That's where 'Clean Code' principles come into play. By following them, you will ensure that you are creating code that will be understood.
+That's where 'Clean Code' principles come into play. By following them, you will ensure that you are creating code that will be 
+understood.
 ```
 
 #### Definition Of Clean Code
