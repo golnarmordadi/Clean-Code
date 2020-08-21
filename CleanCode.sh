@@ -1,11 +1,11 @@
-###########################
-Prefer Clarity Over Brevity
-###########################                                                    
+#####################################################################################################
+                                       Prefer Clarity Over Brevity
+#####################################################################################################                                                    
 Acronysm and Abbriviations can create confusion for the people who read our code later.
 
-####################
-Class and Type Names
-####################
+#####################################################################################################
+                                       Class and Type Names
+#####################################################################################################
 A class or type is used to represent a category of things.
 A cleaner way to convey the passage of time in a class name is to use an adjective as a prefix.
 
