@@ -2,17 +2,18 @@
 #!/bin/bash
 ########################################################################################################################################
 
-                                                          ###### Clean Code
+                                                          >. Clean Code
 
 
-We need to make sure thet we're creating code that can be easily understood by humans.
+`Clean Code` should be >. Simple To Read
+
 
 What Is Clean Code?                                                         Clean Code Definition?
 
       <> Written with human in mind                                               <> Easy to read
       <> Names are easy to understand                                             <> Easy to improve
       <> Formatted consistently                                                   <> Easy to fix
-      <> Clearly communication in tent                                            <> Keep test code clean
+      <> Clearly communication                                                    <> Keep test code clean
        
 That's where clean code principles come into play. By following them, you will ensure that youre crafting code that will be understood.
 
