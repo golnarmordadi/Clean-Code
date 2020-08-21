@@ -23,9 +23,9 @@ A cleaner way to convey the passage of time in a class name is to use an adjecti
 12.Avoid plural used on normal class           #performers
 13.Plural used for collection class            #class performers
 
-####################
-Method and Functions
-####################
+#####################################################################################################
+                                       Method and Functions
+#####################################################################################################
 1.Prefer present tens verbs for method names  #Perform, Open, Close
 2.Avoid gerunds and past tens verb forms      #no performing, closing, performed, closed
 3.Better versions start with a verb + gerund  #is_performing, is_opening, is_closing
@@ -34,9 +34,9 @@ Method and Functions
 5.Prefer prefixing accessor methods with      #get_name, get_place 
  "get"
  
-####################
-Variable Names
-####################
+#####################################################################################################
+                                       Variable Names
+#####################################################################################################
 Prefer singular names for primitive types and object instances
 1.Follow rules for method and function names for variables that store lambda functions and closurs
 2.Avoid single letter variable name
@@ -49,9 +49,9 @@ Prefer singular names for primitive types and object instances
   hungarian notation
 9.Avoid using the type name as a suffix       #LastName no LastNameString
 
-####################
-Parameter Names
-####################
+#####################################################################################################
+                                       Parameter Names
+#####################################################################################################
 1.Prefer singular names for naming parameter
 2.Prefer plural nouns when naming a parameters
 3.Use the noun version of a verb form for parameter that is collections
@@ -59,37 +59,37 @@ Parameter Names
 5.Avoid using abbreviations
 6.Avoid starting parameter name with capitalized letters
 
-####################
-Constant Names
-####################
+#####################################################################################################
+                                       Constant Names
+#####################################################################################################
 1.Capitalize first character
 2.Singular nouns for primitive values
 3.Plural nouns for a collection of values
 4.Avoid single letters and abbreviation
 5.Ensure sepration between acronyms
 
-####################
-Enumeration Names
-####################
+#####################################################################################################
+                                       Enumeration Names
+#####################################################################################################
 1.Singular noun
 2.Make enum members consistent
 
-####################
-Comments
-####################
+#####################################################################################################
+                                       Comments
+#####################################################################################################
 The best comment used to answer "why" questions
 
-###########################
-Constant Formatting Roles
-###########################
+#####################################################################################################
+                                       Constant Formatting Roles
+#####################################################################################################
 1.All capitalized with underscore as a seprater
 
   *DIRECTORY_NAE    >. python, ruby, rust roles
   *First_Name       >. c#, go
 
-###########################
-Indentation and Readability
-###########################
+#####################################################################################################
+                                       Indentation and Readability
+#####################################################################################################
 
 
 
