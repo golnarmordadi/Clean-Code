@@ -7,10 +7,10 @@ that can be easily understand by humans.
 
 #### Clean Code should be:
 
-- [ ] Easy To Read
-- [ ] Easy to improve
-- [ ] Easy To Fix
-- [ ] Keep test code clean
+* Easy To Read
+* Easy to improve
+* Easy To Fix
+* Keep test code clean
 
 ###### Simple To Read
 
