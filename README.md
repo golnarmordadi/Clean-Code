@@ -8,9 +8,9 @@ that can be easily understand by humans.
 #### Clean Code should be:
 
 * Easy To Read
-* Easy to improve
+* Easy To Improve
 * Easy To Fix
-* Keep test code clean
+* Keep Test Code Clean
 
 ###### Simple To Read
 
