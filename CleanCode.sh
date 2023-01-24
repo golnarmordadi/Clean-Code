@@ -113,5 +113,24 @@ Prefer singular names for primitive types and object instances
 5.Module summary
 6.Module Functions(input, output, params, global variables
 
+➕
+
+# Common variable naming conventions:
+The standard naming conventions used in modern software development are as follows:
+
+- Pascal case
+  ThisIsPascalCase
+  
+- camel case
+  thisIsCamelCase
+  
+- snake case
+  this_is_snake_case
+  THIS_IS_SCREAMING_SNAKE_CASE
+  
+- kebab case
+  this-is-kebab-case
+  THIS-IS-A-SCREAM-KEBAB
+
 
 
