@@ -115,7 +115,7 @@ Prefer singular names for primitive types and object instances
 
 ➕
 
-# Common variable naming conventions:
+Common variable naming conventions:
 The standard naming conventions used in modern software development are as follows:
 
 - Pascal case
