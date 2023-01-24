@@ -1,4 +1,4 @@
-## Clean Code❤️
+## Clean Code
 
                    “Of course bad code can be cleaned up. But it’s very expensive.”
                    ―Robert C. Martin
